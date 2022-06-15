@@ -1,1 +1,4 @@
-#!/bash/alx > echo "school" 
+#!bin/bash
+echo "school" 
+ #!/bin/bash
+echo "The School is"

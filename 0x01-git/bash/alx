@@ -1,1 +1,6 @@
-#!/bash/alx > echo "ALX" 
+#!bin/bash
+echo "ALX" 
+ #!/bin/bash
+echo "ALX School"
+ #!/bin/bash
+echo "ALX School is so cool"
